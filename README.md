@@ -6,4 +6,5 @@
 
 # 远起
 
-蜉蝣天地，且行且喜
+蜉蝣天地，且行且喜  
+*Briefly here, gladly going.*
